@@ -15,7 +15,7 @@ submit.onclick = function() {
 
     else {
         error.style.display = "block"
-        body.style.backgroundColor = "black"
+        body.style.backgroundColor = "rgb(0,50,50)"
     }
 
     userPass.value = "";
